@@ -1,0 +1,6 @@
+<network>
+  <name>isolated-lab</name>
+  <ip address="192.168.100.1" netmask="255.255.255.0">
+    <dhcp><range start="192.168.100.10" end="192.168.100.100"/></dhcp>
+  </ip>
+</network>
